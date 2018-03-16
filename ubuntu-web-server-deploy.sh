@@ -1,4 +1,4 @@
-···
+```bash
 #!/usr/bin/env bash
 
 export DEBIAN_FRONTEND=noninteractive
@@ -198,4 +198,4 @@ echo "Mysql Normal User: ${MYSQL_NORMAL_USER}"
 echo "Mysql Normal User Password: ${MYSQL_NORMAL_USER_PASSWORD}"
 echo "--"
 echo "--"
-···
+```
